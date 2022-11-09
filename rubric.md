@@ -10,41 +10,41 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ## Assignment Points:
 
-_____ 1 pt: The `House`, `Library`, and `Cafe` classes all `extend` the `Building` class.
+__YES___ 1 pt: The `House`, `Library`, and `Cafe` classes all `extend` the `Building` class.
 
 ### Level 1: `House.java` (3 pts)
 
-_____ 1 pt: The `House` class includes the requested attributes
+___YES__ 1 pt: The `House` class includes the requested attributes
 
-_____ 1 pt: The `House` class implements the requested accessors
+__YES___ 1 pt: The `House` class implements the requested accessors
 
-_____ 1 pt: The `House` class implements the requested additional methods (`moveIn(...)`, `moveOut(...)`, and `isResident(...)`)
+__YES___ 1 pt: The `House` class implements the requested additional methods (`moveIn(...)`, `moveOut(...)`, and `isResident(...)`)
 
 ### Level 2: `Library.java` (3 pts)
 
-_____ 1 pt: The `Library` class includes the requested attributes
+__YES___ 1 pt: The `Library` class includes the requested attributes
 
-_____ 1 pt: The `Library` class implements the requested methods to add / remove or check out / return titles
+__YES___ 1 pt: The `Library` class implements the requested methods to add / remove or check out / return titles
 
-_____ 1 pt: The `Library` class implements the requested additional methods (`containsTitle(...)`, `isAvailable(...)`, and `printCollection()`)
+__YES___ 1 pt: The `Library` class implements the requested additional methods (`containsTitle(...)`, `isAvailable(...)`, and `printCollection()`)
 
 ### Level 3: `Cafe.java` (3 pts)
 
-_____ 1 pt: The `Cafe` class includes the requested attributes
+___YES__ 1 pt: The `Cafe` class includes the requested attributes
 
 _____ 1 pt: The `Cafe` class keeps the inventory up to date, based on sales
 
-_____ 1 pt: The `Cafe` class uses the `restock(...)` method to avoid running out of inventory.
+___YES__ 1 pt: The `Cafe` class uses the `restock(...)` method to avoid running out of inventory.
 
 
 
 ## General Items:
 
-_____ 4 pts: Programs compile without errors or warnings
+__YES___ 4 pts: Programs compile without errors or warnings
 
-_____ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+__YES__ 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-_____ 2 pt: Complies with style guidelines (missing items 1 pt each):
+___YES__ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
       _____ Classes & class members all have Javadoc header comments
 
@@ -56,6 +56,6 @@ _____ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
       _____ Methods avoid confusing side effects
 
-_____ 1 pt: All required files included with submission (including completed `rubric.md` file)
+__YES__ 1 pt: All required files included with submission (including completed `rubric.md` file)
 
-_____ 1 pt: `reflection.md` contains your reflection on the assignment
+__YES__ 1 pt: `reflection.md` contains your reflection on the assignment
